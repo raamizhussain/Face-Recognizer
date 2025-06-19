@@ -80,7 +80,7 @@ pip install opencv-python opencv-contrib-python numpy
 When a known face is detected:
 
 Deepika Padukone with a confidence of 48.63
-<img src="example_output.jpg" alt="Detected Face" width="500"/>
+
 📌 Notes
 haar_face.xml must be in the project root or correctly referenced.
 
